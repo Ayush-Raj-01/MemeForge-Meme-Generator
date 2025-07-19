@@ -2,7 +2,7 @@
 
 **MemeForge** is a web-based meme generator that lets users create, customize, and save memes using 100+ popular templates — all without needing to sign in!
 
-![Hero Banner](./assets/images/476ed502196619e6b8e9ebbc10349cf1-removebg-preview.png)
+
 
 ## 🚀 Features
 
